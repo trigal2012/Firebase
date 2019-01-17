@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "712490212569",
+    "firebase_url": "https://firestorechat-93447.firebaseio.com",
+    "project_id": "firestorechat-93447",
+    "storage_bucket": "firestorechat-93447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712490212569:android:8d48b1fb52e6703c",
+        "android_client_info": {
+          "package_name": "com.android.www.firestorechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712490212569-sp6eacml7g28mh7ikp69fhlji0g0fhdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQnU-ahvuaD44TG5HJ-HCiWjjwLGReBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
